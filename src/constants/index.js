@@ -36,6 +36,8 @@ import manohar from "../assets/Team/member6.jpg";
 import suraj from "../assets/Team/member5.jpg";
 import ganesh from "../assets/Team/member7.jpg";
 import ravi from "../assets/Team/member8.jpg";
+import sush from "../assets/Team/member9.jpg";
+import shravani from "../assets/Team/member10.jpg";
 import memory1 from "../assets/Memories/Picture1.jpg";
 import memory2 from "../assets/Memories/Picture2.jpg";
 import memory3 from "../assets/Memories/Picture3.jpg";
@@ -272,6 +274,20 @@ export const TEAM = [
     mail: "mailto:raviprakashm072@gmail.com",
     linkedin: "https://www.linkedin.com/in/raviprakash-mishra-18b3a02a1 ",
   },
+  {
+    img: sush,
+    name: "Sushrut Mahajan",
+    designation: "Mechanical Head",
+    mail: "mailto:sushrutmahajan999@gmail.com",
+    linkedin: "https://www.linkedin.com/in/sushrut-mahajan-068519298?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+  },
+  {
+    img: shravani,
+    name: "Shravani Yadav",
+    designation: "Treasure and Technical Head",
+    mail: "mailto:shravaniyadav210806@gmail.com",
+    linkedin: "https://www.linkedin.com/in/shravani-yadav-3116852bb?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+  },
 ];
 
 export const SPONSORS = [
@@ -325,6 +341,24 @@ export const CONTACT = [
     mail: `mailto:kalyani.jadhav23221078@gcoeara.ac.in`,
     linkedin:
       "https://www.linkedin.com/in/ashwini-thikole-27a50b291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  },
+  {
+    name: "Shravani Yadav",
+    branch: "BE Instru",
+    contctNo: `tel:+919322849852`,
+    image: female,
+    mail: `mailto:shravaniyadav210806@gmail.com`,
+    linkedin:
+      "https://www.linkedin.com/in/shravani-yadav-3116852bb?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+  },
+  {
+    name: "Sushrut Mahajan",
+    branch: "BE Auto",
+    contctNo: `tel:+917447697271`,
+    image: male,
+    mail: `mailto:sushrutmahajan999@gmail.com`,
+    linkedin:
+      "https://www.linkedin.com/in/sushrut-mahajan-068519298?utm_source=share_via&utm_content=profile&utm_medium=member_android",
   },
 ];
 
